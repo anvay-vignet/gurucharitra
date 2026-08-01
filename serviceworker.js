@@ -2,9 +2,9 @@
 // GURUCHARITRA SERVICE WORKER
 // ===============================
 
-// Last updated: 27-05-2026
+// Last updated: 01-08-2026
 
-const VERSION = '27052026-1008';
+const VERSION = '01082026-1009';
 const CACHE_NAME = `gurucharitra-${VERSION}`;
 
 // Detect base path dynamically
